@@ -52,12 +52,13 @@ header > h1{
     margin-bottom: 20px;
 }
 
-header p {
+header > p {
     text-align: center;
     font-family: var(--fonte-padrao);
     font-size: 1.2mem;
     max-width: 600px;
     margin: auto;
+    padding-bottom: 30px;
 }
 
 nav {
